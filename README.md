@@ -4,6 +4,6 @@ The focus of this study is to explore that how student’s academic performance 
 2.	Do teachers have an impact on student performance? If so, which characteristics contribute the most towards better scores? Can a child’s future performance be predicted based on these factors?
 3.	Are there any differences in learning outcomes across schools? If so, what are the factors that contribute towards this variation?
 
-In the research, unsupervised learning techniques involving association rules and cluster analysis were used to show that there are several characteristics of teachers as well as parents which play a huge role in improving learning outcomes of children. The results of both methods were consistent which gave me the confidence to employ supervised learning techniques such as decision trees and logistic regression to predict the students performance given the important characteristics that had been identified.
+In the research, **unsupervised learning** techniques involving **association rules** and **cluster analysis** were used to show that there are several characteristics of teachers as well as parents which play a huge role in improving learning outcomes of children. The results of both methods were consistent which gave me the confidence to employ **supervised learning techniques** such as **decision trees **and **logistic regression** to predict the students performance given the important characteristics that had been identified.
 
 
